@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\sof\\Lab8B2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F5B776-0911-4C67-AC80-395771BF071D}|Lab8.Tests\\Lab8.Tests.csproj|e:\\sof\\lab8b2\\lab8.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F5B776-0911-4C67-AC80-395771BF071D}|Lab8.Tests\\Lab8.Tests.csproj|solutionrelative:lab8.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C672861-CFE1-4AFB-97C5-767D785A2620}|Lab8B2\\Lab8B2.csproj|e:\\sof\\lab8b2\\lab8b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C672861-CFE1-4AFB-97C5-767D785A2620}|Lab8B2\\Lab8B2.csproj|solutionrelative:lab8b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "E:\\sof\\Lab8B2\\Lab8.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Lab8.Tests\\MSTestSettings.cs",
+              "ToolTip": "E:\\sof\\Lab8B2\\Lab8.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "Lab8.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:06:28.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\sof\\Lab8B2\\Lab8B2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab8B2\\Program.cs",
+              "ToolTip": "E:\\sof\\Lab8B2\\Lab8B2\\Program.cs",
+              "RelativeToolTip": "Lab8B2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:06:15.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
